@@ -9,7 +9,8 @@
 	url = ../AppCSXCAD.git
 [submodule "openEMS"]
 	path = openEMS
-	url = ../openEMS.git
+	url = https://github.com/Alacrity-Education/openEMS.git
+	branch = sycl-backend
 [submodule "fparser"]
 	path = fparser
 	url = ../fparser.git
