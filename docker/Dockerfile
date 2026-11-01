@@ -40,7 +40,7 @@ FROM base AS builder
 ARG ONEAPI_VERSION=2026.0.0-947
 ARG PROJECT_REPO=https://github.com/Alacrity-Education/openEMS-Project.git
 # branch, tag or commit
-ARG PROJECT_REF=sycl-backend
+ARG PROJECT_REF=integration/october
 # antmicro/gerber2ems main
 ARG GERBER2EMS_REF=39d13fc60a6940214a47ffbcf2e164f2c6533b61
 ARG DEBIAN_FRONTEND=noninteractive
