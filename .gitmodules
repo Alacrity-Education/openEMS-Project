@@ -1,6 +1,7 @@
 [submodule "CSXCAD"]
 	path = CSXCAD
-	url = https://github.com/thliebig/CSXCAD.git
+	url = https://github.com/Alacrity-Education/CSXCAD.git
+	branch = integration/october
 [submodule "QCSXCAD"]
 	path = QCSXCAD
 	url = https://github.com/thliebig/QCSXCAD.git
@@ -10,7 +11,7 @@
 [submodule "openEMS"]
 	path = openEMS
 	url = https://github.com/Alacrity-Education/openEMS.git
-	branch = sycl-backend
+	branch = integration/october
 [submodule "fparser"]
 	path = fparser
 	url = https://github.com/thliebig/fparser.git
